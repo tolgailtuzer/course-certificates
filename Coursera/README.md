@@ -1,1 +1,1 @@
-![CourseImage](Coursera/machine_learning.png)
+![CourseImage](machine_learning.png)
