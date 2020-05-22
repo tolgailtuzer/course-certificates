@@ -2,20 +2,20 @@
 
 | Course Names                                                     |                 Credential               |
 | ---------------------------------------------------------------- | ---------------------------------------- |
-| ● [Python Programming Track][C1]                          	   | 37f1df426297c4e3b388f8acf0c931efab9f99db |
-| ● [Introduction to Git][C2]                          		       | adcab2e267f9d178ff57ffa67f9d0118d798a439 |
-| ● [Machine Learning Scientist with Python Track][C2]             | 										  |
-| &emsp; ○ [Supervised Learning with scikit-learn][C21]            | 008dfc2d8b0b08a42d4b3940053b283a81792b9d |
-| &emsp; ○ [Unsupervised Learning in Python][C22]             	   | 4ea75daa0fed92d8d7bd9dcbbc593ca05bde2031 |
-| &emsp; ○ [Linear Classifiers in Python][C23]           		   | e438e5bd50c6d9c50e4aa0ef32ded5d223a711c3 |
-| &emsp; ○ [Machine Learning with Tree-Based Models in Python][C24]| ebb035e447a3fcf48d79b8e75164a849cde07fff |
-| &emsp; ○ [Extreme Gradient Boosting with XGBoost][C25]  		   | 27633de9d6e9a35dc176c0a32883089f2fa504ac |
-| &emsp; ○ [Cluster Analysis in Python][C26]           		   	   | 66ee5ba05d639ec8cca98a44ef705cd23808f719 |
-| &emsp; ○ [Dimensionality Reduction in Python][C27]           	   | 2cfd8e91bf82e6a9b34ee9b237990dc576597e74 |
+| ● [Python Programming Track][C1]                          	     | 37f1df426297c4e3b388f8acf0c931efab9f99db |
+| ● [Introduction to Git][C2]                          		         | adcab2e267f9d178ff57ffa67f9d0118d798a439 |
+| ● [Machine Learning Scientist with Python Track][C3]             | 										                      |
+| &emsp; ○ [Supervised Learning with scikit-learn][C31]            | 008dfc2d8b0b08a42d4b3940053b283a81792b9d |
+| &emsp; ○ [Unsupervised Learning in Python][C32]             	   | 4ea75daa0fed92d8d7bd9dcbbc593ca05bde2031 |
+| &emsp; ○ [Linear Classifiers in Python][C33]           		       | e438e5bd50c6d9c50e4aa0ef32ded5d223a711c3 |
+| &emsp; ○ [Machine Learning with Tree-Based Models in Python][C34]| ebb035e447a3fcf48d79b8e75164a849cde07fff |
+| &emsp; ○ [Extreme Gradient Boosting with XGBoost][C35]  		     | 27633de9d6e9a35dc176c0a32883089f2fa504ac |
+| &emsp; ○ [Cluster Analysis in Python][C36]           		   	     | 66ee5ba05d639ec8cca98a44ef705cd23808f719 |
+| &emsp; ○ [Dimensionality Reduction in Python][C37]           	   | 2cfd8e91bf82e6a9b34ee9b237990dc576597e74 |
   
 [C1]: https://www.datacamp.com/statement-of-accomplishment/track/37f1df426297c4e3b388f8acf0c931efab9f99db
 [C2]: https://www.datacamp.com/statement-of-accomplishment/course/adcab2e267f9d178ff57ffa67f9d0118d798a439
-[C3]: 
+[C3]: #
 [C31]: https://www.datacamp.com/statement-of-accomplishment/course/008dfc2d8b0b08a42d4b3940053b283a81792b9d
 [C32]: https://www.datacamp.com/statement-of-accomplishment/course/4ea75daa0fed92d8d7bd9dcbbc593ca05bde2031
 [C33]: https://www.datacamp.com/statement-of-accomplishment/course/e438e5bd50c6d9c50e4aa0ef32ded5d223a711c3
