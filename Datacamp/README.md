@@ -13,6 +13,7 @@
 | &emsp; ○ [Cluster Analysis in Python][C36]                            | 66ee5ba05d639ec8cca98a44ef705cd23808f719 |
 | &emsp; ○ [Dimensionality Reduction in Python][C37]                    | 2cfd8e91bf82e6a9b34ee9b237990dc576597e74 |
 | &emsp; ○ [Preprocessing for Machine Learning in Python][C38]          | 9d5b73e5f1adaafb9ce0eaa80fbdaa0a61d88caf |
+| &emsp; ○ [Machine Learning for Time Series Data in Python][C39]       | 15cf3c705ff9e7e15051616e5827f538d261d13f |
   
 [C1]: https://www.datacamp.com/statement-of-accomplishment/track/37f1df426297c4e3b388f8acf0c931efab9f99db
 [C2]: https://www.datacamp.com/statement-of-accomplishment/course/adcab2e267f9d178ff57ffa67f9d0118d798a439
@@ -25,3 +26,4 @@
 [C36]: https://www.datacamp.com/statement-of-accomplishment/course/66ee5ba05d639ec8cca98a44ef705cd23808f719
 [C37]: https://www.datacamp.com/statement-of-accomplishment/course/2cfd8e91bf82e6a9b34ee9b237990dc576597e74
 [C38]: https://www.datacamp.com/statement-of-accomplishment/course/9d5b73e5f1adaafb9ce0eaa80fbdaa0a61d88caf
+[C39]: https://www.datacamp.com/statement-of-accomplishment/course/15cf3c705ff9e7e15051616e5827f538d261d13f
