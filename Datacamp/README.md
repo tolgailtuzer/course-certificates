@@ -16,6 +16,7 @@
 | &emsp; ○ [Machine Learning for Time Series Data in Python][C39]       | 15cf3c705ff9e7e15051616e5827f538d261d13f |
 | &emsp; ○ [Feature Engineering for Machine Learning in Python][C310]   | 595872ed51c679f04bf90fb88f6f0b3c598fa86c |
 | &emsp; ○ [Model Validation in Python][C311]                           | 942d46f8eb254025b0458c9f0fbd3a1dc0cd8452 |
+| &emsp; ○ [Introduction to Natural Language Processing in Python][C312]| acea8ffd33e00e95995f80574b4b2367a790f691 |
   
 [C1]: https://www.datacamp.com/statement-of-accomplishment/track/37f1df426297c4e3b388f8acf0c931efab9f99db
 [C2]: https://www.datacamp.com/statement-of-accomplishment/course/adcab2e267f9d178ff57ffa67f9d0118d798a439
@@ -31,3 +32,4 @@
 [C39]: https://www.datacamp.com/statement-of-accomplishment/course/15cf3c705ff9e7e15051616e5827f538d261d13f
 [C310]: https://www.datacamp.com/statement-of-accomplishment/course/595872ed51c679f04bf90fb88f6f0b3c598fa86c
 [C311]: https://www.datacamp.com/statement-of-accomplishment/course/942d46f8eb254025b0458c9f0fbd3a1dc0cd8452
+[C312]: https://www.datacamp.com/statement-of-accomplishment/course/acea8ffd33e00e95995f80574b4b2367a790f691
